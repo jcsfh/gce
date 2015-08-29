@@ -20,4 +20,4 @@ Features
 •serialization for complex object
 
 
-For more details and demo please download release files and see document at /docs/.
+For more details and demo codes please download release files and see document at /docs/.
