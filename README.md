@@ -1,5 +1,5 @@
 # gce
-gce is a cross-platform general C++ engine, including a general runtime and a reflection engine by now. The main purpose of General C++ Engine Reflection is to provide reflection capabilities to C++ language. Based on C++11 and Meta Programming, this reflection engine implements a serial of general reflection functionalities for C++.
+This general C++ engine is a cross-platform general C++ engine, including a general runtime and a reflection engine by now. The main purpose of General C++ Engine Reflection is to provide reflection capabilities to C++ language. Based on C++11 and Meta Programming, this reflection engine implements a serial of general reflection functionalities for C++.
 
 Features
 
