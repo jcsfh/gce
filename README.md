@@ -17,4 +17,4 @@ Features
 
 •support template class reflection as well
 
-For more details please download release files and see document at /docs/.
+For more details and demo please download release files and see document at /docs/.
